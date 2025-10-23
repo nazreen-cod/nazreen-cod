@@ -1,11 +1,11 @@
 # Hi, I'm Nazreen (he/him) 👋
 
-[cite_start]I'm a Software Engineering student and an aspiring full-stack developer passionate about building complete, end-to-end applications[cite: 12]. [cite_start]I have a strong background in both web and mobile development[cite: 12], with hands-on experience building:
+I'm a Software Engineering student and an aspiring full-stack developer passionate about building complete, end-to-end applications. I have a strong background in both web and mobile development, with hands-on experience building:
 
-* [cite_start]A C# ASP.NET Core MVC platform for a train booking system[cite: 39].
-* [cite_start]A healthcare management website using PHP/Laravel[cite: 20].
-* [cite_start]A forestry simulation and analysis tool in PHP[cite: 28].
-* [cite_start]A secure IoT Smart Mailbox using a Raspberry Pi[cite: 46].
+* A C# ASP.NET Core MVC platform for a train booking system.
+* A healthcare management website using PHP/Laravel.
+* A forestry simulation and analysis tool in PHP.
+* A secure IoT Smart Mailbox using a Raspberry Pi.
 
 ---
 
