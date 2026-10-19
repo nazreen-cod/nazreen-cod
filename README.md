@@ -1,18 +1,11 @@
 # Hi, I'm Nazreen (he/him) 👋
 
-I'm a **Software Engineering graduate** (Bachelor of IT (Hons) in Software Engineering, Universiti Kuala Lumpur, 2026) and a full-stack developer who enjoys building complete, end-to-end applications across web and mobile.
+I'm a **Software Engineering graduate** (Bachelor of IT (Hons) in Software Engineering,) and a full-stack developer who enjoys building complete, end-to-end applications across web and mobile.
 
 ### 💼 Currently
 
-* **Software Developer @ ACS Engineering & Services Sdn. Bhd.**
+* **Software Developer.**
 * 🌱 Always learning and growing as a full-stack engineer.
-
-### 🎓 Education
-
-* **Bachelor of Information Technology (Hons) in Software Engineering** — Universiti Kuala Lumpur (2022 – 2026)
-* **Diploma in Engineering Technology** — German-Malaysian Institute
-
----
 
 ### 🛠️ My Tech Stack
 
